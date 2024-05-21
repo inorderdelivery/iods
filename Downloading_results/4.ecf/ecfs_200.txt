@@ -1,0 +1,14 @@
+The results for ecfs when downloading 200MB test file:
+  1:real	1m50,206s
+  2:real	1m20,658s
+  3:real	1m32,371s
+  4:real	2m6,402s
+  5:real	1m43,450s
+  6:real	1m45,919s
+  7:real	2m14,811s
+  8:real	1m54,746s
+  9:real	1m54,680s
+  10:real	2m27,349s 
+
+
+

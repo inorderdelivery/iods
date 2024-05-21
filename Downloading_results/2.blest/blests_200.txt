@@ -1,0 +1,14 @@
+The results for blests when downloading 200MB test file:
+  1:real	2m3,026s
+  2:real	1m31,717s
+  3:real	2m6,045s
+  4:real	1m52,280s
+  5:real	3m2,640s
+  6:real	1m38,917s
+  7:real	2m44,530s
+  8:real	3m33,693s
+  9:real	2m26,503s
+  10:real	1m56,344s 
+
+
+

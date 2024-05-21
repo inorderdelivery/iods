@@ -1,0 +1,14 @@
+The results for blests when downloading 50MB test file:
+  1:real	0m14,531s
+  2:real	0m20,087s
+  3:real	0m24,154s
+  4:real	0m22,905s
+  5:real	0m24,692s
+  6:real	0m22,398s
+  7:real	0m25,224s
+  8:real	0m19,879s
+  9:real	0m21,868s
+  10:real	0m24,536s 
+
+
+

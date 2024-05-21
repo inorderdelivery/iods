@@ -1,0 +1,14 @@
+The results for iods when downloading 50MB test file:
+  1:real	0m22,578s
+  2:real	0m20,580s
+  3:real	0m18,942s
+  4:real	0m18,856s
+  5:real	0m18,313s
+  6:real	0m24,594s
+  7:real	0m19,016s
+  8:real	0m14,047s
+  9:real	0m17,023s
+  10:real	0m22,258s 
+
+
+

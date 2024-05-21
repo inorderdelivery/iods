@@ -1,0 +1,14 @@
+The results for rounds when downloading 100MB test file:
+  1:real	1m5,631s
+  2:real	1m10,659s
+  3:real	1m1,995s
+  4:real	1m4,585s
+  5:real	0m52,467s
+  6:real	0m52,751s
+  7:real	0m53,075s
+  8:real	0m53,122s
+  9:real	1m6,428s
+  10:real	0m59,014s 
+
+
+

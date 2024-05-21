@@ -1,0 +1,14 @@
+The results for default when downloading 100MB test file:
+  1:real	0m35,826s
+  2:real	1m15,765s
+  3:real	0m50,186s
+  4:real	0m40,004s
+  5:real	0m41,432s
+  6:real	0m45,025s
+  7:real	0m51,935s
+  8:real	0m38,319s
+  9:real	0m38,873s
+  10:real	0m41,998s 
+
+
+

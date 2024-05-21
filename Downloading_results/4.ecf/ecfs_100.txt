@@ -1,0 +1,14 @@
+The results for ecfs when downloading 100MB test file:
+  1:real	0m54,774s
+  2:real	1m3,276s
+  3:real	1m4,614s
+  4:real	0m54,440s
+  5:real	0m59,890s
+  6:real	0m46,167s
+  7:real	0m44,000s
+  8:real	0m48,279s
+  9:real	0m44,313s
+  10:real	0m50,328s 
+
+
+

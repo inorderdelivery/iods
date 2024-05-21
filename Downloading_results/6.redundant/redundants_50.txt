@@ -1,0 +1,14 @@
+The results for redundants when downloading 50MB test file:
+  1:real	0m31,628s
+  2:real	0m32,351s
+  3:real	1m8,310s
+  4:real	1m2,700s
+  5:real	0m43,146s
+  6:real	1m4,141s
+  7:real	1m7,918s
+  8:real	0m56,946s
+  9:real	1m5,213s
+  10:real	1m15,473s 
+
+
+

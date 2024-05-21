@@ -1,0 +1,14 @@
+The results for default when downloading 200MB test file:
+  1:real	1m13,855s
+  2:real	1m11,554s
+  3:real	1m31,568s
+  4:real	1m45,557s
+  5:real	2m13,878s
+  6:real	1m49,110s
+  7:real	2m19,960s
+  8:real	2m24,135s
+  9:real	2m48,983s
+  10:real	2m49,005s 
+
+
+
